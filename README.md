@@ -34,4 +34,4 @@ on a repository that I like and want to contribute to, but that will have to wai
 - I just found out about github so I'll have alot of projects to put
 - Coding has helped me be more social surprisingly
 - I have tried to make music before (it was bad)
-- I almost died once (did ventilate my room correctly while doing oil paints haha)
+- I almost died once (did not ventilate my room correctly while doing oil paints haha)
