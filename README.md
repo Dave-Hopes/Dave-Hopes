@@ -18,7 +18,7 @@ I am a young developper from the UK. I am currently in my first year of Art scho
 - Curious (According to my parents)
 
 ## What I like
-I like drawing, listening to music and learning new things that interest me. My favourite animal are geese, they are so cute angry and spiteful I love them so much. I also love taking walks and going into places I'm not really supposed to go. For example I was the one who broke into a wearhouse near my home to spray paint and do street art, I wasn't caught though. But anyways yea I like letting myself wander wherever I feel like, it clearns my mind and helps give me ideas.
+I like drawing, listening to music and learning new things that interest me. My favourite animal are geese, they are so cute angry and spiteful I love them so much. I also love taking walks and going into places I'm not really supposed to go. For example I was the one who broke into a wearhouse near my home to spray paint and do street art, I wasn't caught though. But anyways yea I like letting myself wander wherever I feel like, it clears my mind and helps give me ideas.
 
 ## What I would like to learn
 I heard a few of my friends on Discord talk about tech stacks so whatever those are, also python as my first language, I also learnt about figma recently so I would like to make my first online website soon so my parents can see how competent I have become and let me pursue programming. Maybe learn about Linux? I heard a bunch of people in the community use it so it seems like a good idea to follow right? And finally as a goal of mine make at least 1 pull request (My friends told me about that 😁)
